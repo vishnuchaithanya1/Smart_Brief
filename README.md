@@ -24,8 +24,6 @@ With its clean UI, local history tracking, and clipboard support, it’s perfect
 | **State Mgmt.**  | Redux Toolkit (RTK Query)                     |
 | **Summarization**| RapidAPI (Article Extractor & Summarizer API) |
 | **Storage**      | Browser `localStorage` for summary history    |
-| **Deployment**   | Vercel                                        |
-
 ---
 
 ## 🛠️ Installation & Setup  
